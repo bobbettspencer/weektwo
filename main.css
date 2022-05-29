@@ -9,4 +9,9 @@ div{
     height: 700px;
     /*change the margin properties to zero and auto.*/
     margin: 0 auto;
+    
+}
+
+h1{
+    font-size: 40px;
 }
